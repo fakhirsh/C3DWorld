@@ -1,0 +1,9 @@
+
+# Execute this command from the "Temp/Linux" directory:
+
+cmake -G "Unix Makefiles" ../../Source/Projects/Linux/
+
+OR
+
+cmake -G "Eclipse CDT4 - Unix Makefiles" ../../Source/Projects/Linux/
+
